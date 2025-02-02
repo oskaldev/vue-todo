@@ -266,5 +266,8 @@ button {
 .app-footer {
   font-size: 1.4rem;
   text-align: center;
-  color: var(--secondary-color);
+  color: var(--default-color);
+  border: 1px solid var(--default-color);
+  border-radius: 10px;
+  padding: 5px;
 }
