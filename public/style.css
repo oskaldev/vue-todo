@@ -215,6 +215,7 @@ button {
   opacity: 0;
   color: var(--secondary-color);
   transition: opacity 0.2s;
+  cursor: pointer;
 }
 
 .todo-item:hover .todo-item__remove-button {
